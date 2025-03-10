@@ -9,6 +9,6 @@ git clone https://github.com/andjela-r/NLP-Tutorials.git
 ```
 
 ## Table of Contents
-* [BERT Masked Language Modelling Fine-tuning]()
+* [BERT Masked Language Modelling Fine-tuning](https://github.com/andjela-r/NLP-Tutorials/tree/main/bert_mlm)
 
 Happy coding!
